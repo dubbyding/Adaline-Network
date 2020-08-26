@@ -1,2 +1,2 @@
 # Adaline-Network
-Simple And Not gate using Adaline Network
+Simple Adaline Network (Part of assignment)
